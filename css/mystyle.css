@@ -2,7 +2,7 @@
     max-width: 100%; /* Ensure the banner spans the width of its container */
     overflow: hidden; /* Hide any overflow content */
     position: relative; /* Makes the banner a positioned container */
-    height: 300px; /* Set a fixed height for the banner */
+  
 }
 
 .banner img {
