@@ -59,16 +59,21 @@ nav a {
 }
 
 
-        .static map1 {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            width: 100%;
-        }
-        .static map1, .text-container {
-            width: 45%; /* Adjust the width as needed */
-            height: auto;
-        }
-        .text-container {
-            text-align: right;
-        }
+/* Styling for the map and text container */
+.map-and-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.map-image {
+    width: 45%;
+    height: auto;
+}
+
+.text-container {
+    width: 45%;
+    text-align: right;
+}
