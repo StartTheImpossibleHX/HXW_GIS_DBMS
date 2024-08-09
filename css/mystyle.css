@@ -10,7 +10,7 @@
     height: 600; /* Make the image fill the height of its container */
     style: "float:right";
     top: 80px;
-    align: middle;
+    align: center;
 }
 
 h2 {
