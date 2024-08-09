@@ -10,12 +10,7 @@
     height: 600; /* Make the image fill the height of its container */
     style: "float:right";
     top: 80px;
-    object-fit: cover; /* Cover the entire container area */
-    object-position: center; /* Center the image within the banner */
-    display: block; /* Ensure the image behaves as a block-level element */
-    position: absolute; /* Allows for precise positioning within the banner */
-    top: 0; /* Align the top of the image with the top of the banner */
-    left: 0; /* Align the left of the image with the left of the banner */
+    align: middle;
 }
 
 h2 {
