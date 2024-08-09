@@ -2,14 +2,13 @@
     max-width: 100%; /* Ensure the banner spans the width of its container */
     overflow: hidden; /* Hide any overflow content */
     height: 300px; /* Set a fixed height for the banner */
-    class: center;
 
 }
 
 .banner img {
     width: 800; /* Make the image fill the width of its container */
     height: 600; /* Make the image fill the height of its container */
-   class: center;
+
 
 }
 
