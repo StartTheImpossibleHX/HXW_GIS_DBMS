@@ -8,6 +8,8 @@
 .banner img {
     width: 100%; /* Make the image fill the width of its container */
     height: 100%; /* Make the image fill the height of its container */
+    top: 80px;
+  right: 0;
     object-fit: cover; /* Cover the entire container area */
     object-position: center; /* Center the image within the banner */
     display: block; /* Ensure the image behaves as a block-level element */
