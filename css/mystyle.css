@@ -3,14 +3,14 @@
     overflow: hidden; /* Hide any overflow content */
     height: 300px; /* Set a fixed height for the banner */
     align: center;
-    
+    border:5px solid black
 }
 
 .banner img {
     width: 800; /* Make the image fill the width of its container */
     height: 600; /* Make the image fill the height of its container */
 
-    
+    border:5px solid black
 }
 
 h2 {
