@@ -2,7 +2,7 @@
 .banner {
     width: 100%; /* Make the banner full width */
     height: auto; /* Auto height to fit the image */
-    padding: 0; /* Remove padding */
+
     margin: 0; /* Remove margin */
     padding: 50px;
 }
