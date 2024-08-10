@@ -1,16 +1,12 @@
 .banner {
     display: block;
     width: 100%; /* Make the banner span the full width of the page */
+        height: 200px; /* Maintain the aspect ratio of the image */
     padding: 80px 0 0 0; /* Remove any padding that might affect the full-width layout */
     margin: 0; /* Remove any margin to avoid unwanted spacing */
 }
 
-.banner img {
-    display: block;
-    width: 100%; /* Make the image span the full width of the banner */
-    height: 200px; /* Maintain the aspect ratio of the image */
-    object-fit: cover; /* Ensure the image covers the banner if necessary */
-}
+
 
 h2 {
   color: blue;
