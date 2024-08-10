@@ -19,22 +19,6 @@
 
 
 
-
-
-
-
-/* Style for the image within the banner */
-.banner img {
-    width: 100%; /* Make the image fill the full width of the banner */
-    height: 300px; /* Set a fixed height for the image */
-    object-fit: cover; /* Ensure the image covers the set dimensions without distortion */
-    display: block; /* Ensure the image behaves as a block-level element */
-}
-
-
-
-
-
 h2 {
   color: blue;
   text-align: center;
