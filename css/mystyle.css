@@ -101,12 +101,7 @@ nav a {
 
 
 
-.hero-container {
-    display: flex;             /* Use flexbox layout */
-    justify-content: space-between; /* Space out the left, center, and right sections */
-    align-items: center;       /* Align items vertically in the center */
-    padding: 20px;             /* Add some padding around the container */
-}
+
 
 .hero-left, .hero-right {
     width: 25%;                /* Set the width for left and right sections */
