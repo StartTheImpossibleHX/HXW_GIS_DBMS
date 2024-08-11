@@ -34,12 +34,15 @@ p {
 font-size: 20px;
 }
 h2 {
-  color: #339933;
+        margin-top:5px;
+
+  margin-top:5px;
+    color: #339933;
   text-align: center;
 }
 div {
-
-  font-size: 20px;
+    margin-top: 60px;
+margin-bottom: 5px; /* Reduce the bottom margin */
     color: #339933;
     text-align: center;
 }
