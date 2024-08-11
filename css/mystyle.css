@@ -33,13 +33,15 @@ p {
     color: #339933;
 font-size: 20px;
 }
-h3 {
-  color: blue;
+h2 {
+  color: #339933;
   text-align: center;
 }
 div {
-  font-family: verdana;
+
   font-size: 20px;
+    color: #339933;
+    text-align: center;
 }
 
 nav {
