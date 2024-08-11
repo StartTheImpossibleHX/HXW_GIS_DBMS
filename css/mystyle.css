@@ -19,7 +19,7 @@
 
 
 h4 {
-    margin-top: 50px;
+    margin-top: 100px;
     margin-left: 150px;
 margin-bottom: 5px; /* Reduce the bottom margin */
   color: #339933;
@@ -31,7 +31,7 @@ p {
     margin-left: 150px;
     text-align: left;
     color: #339933;
-
+font-size: 20px;
 }
 h3 {
   color: blue;
