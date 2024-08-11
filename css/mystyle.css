@@ -1,3 +1,64 @@
+
+.site-title {
+    font-size: 1.74901rem;
+}
+p.site-title {
+}
+.site-title {
+    font-size: 1.74901rem;
+}
+p.site-title {
+}
+.site-title {
+    color: var(--wp--preset--color--foreground);
+    font-family: "PT Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-family: var(--font-headings, "PT Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif);
+    letter-spacing: normal;
+    line-height: 1;
+}
+
+.site-title {
+    color: var(--wp--preset--color--foreground);
+    font-family: "PT Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-family: var(--font-headings, "PT Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif);
+    letter-spacing: normal;
+    line-height: 1;
+}
+
+
+.site-description {
+    font-size: .75614rem;
+}
+.site-description {
+    font-size: .75614rem;
+}
+.site-title+.site-description {
+    margin-top: -16px;
+}
+.site-title+.site-description {
+    margin-top: -16px;
+}
+.site-description {
+    color: var(--wp--preset--color--foreground-low-contrast);
+}
+.site-description {
+    color: currentColor;
+    font-family: "PT Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-family: var(--font-base, "PT Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif);
+}
+
+.site-description {
+    color: var(--wp--preset--color--foreground-low-contrast);
+}
+.site-description {
+    color: currentColor;
+    font-family: "PT Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-family: var(--font-base, "PT Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif);
+}
+
+
+
+
 /* Style for the banner container */
 .banner {
     width: 100%; /* Make the banner full width */
