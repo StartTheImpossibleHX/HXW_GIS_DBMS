@@ -18,15 +18,15 @@
 
 
 
-h2 {
-    margin-top: 30px;
+h4 {
+    margin-top: 50px;
 margin-bottom: 5px; /* Reduce the bottom margin */
   color: #339933;
-  text-align: center;
+  text-align: left;
 }
 p {
     margin-top:5px;
-    text-align: center;
+    text-align: left;
     color: #339933;
 
 }
