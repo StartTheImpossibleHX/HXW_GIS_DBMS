@@ -108,10 +108,16 @@ nav a {
 }
 
 
-.hero-left, .hero-right {
+.hero-left{
     width: 25%;
     
 }
+
+.hero-right {
+    width: 15%;
+    
+}
+
 
 
 .hero-image {
