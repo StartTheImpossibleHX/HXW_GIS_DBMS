@@ -108,6 +108,11 @@ nav a {
 }
 
 
+.hero-left, .hero-right {
+    width: 25%;
+    
+}
+
 
 .hero-image {
     width: 30%; /* Adjust the width of the image container */
