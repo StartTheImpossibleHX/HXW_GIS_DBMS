@@ -112,6 +112,7 @@ nav a {
 
 
 .hero-left, .hero-right {
-    width: 25%;                /* Set the width for left and right sections */
+    width: 25%;
+    color: #886552/* Set the width for left and right sections */
 }
 
