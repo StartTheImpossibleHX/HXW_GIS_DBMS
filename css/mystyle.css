@@ -126,3 +126,11 @@ nav a {
     height: auto;
     object-fit: cover; /* Ensures the image covers the container without distortion */
 }
+
+
+/* Styling for the main-navitation */
+
+.main-navigation {
+    color: var(--wp--preset--color--foreground);
+}
+
