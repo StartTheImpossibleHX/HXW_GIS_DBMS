@@ -89,10 +89,16 @@ nav a {
     margin-top: 20px;
 }
 
+
+
+
 .map-image {
-    width: 1200px;
-    height: 1000px;
+    max-width: 100%; /* Ensures the image scales with its container */
+    height: auto;    /* Keeps the aspect ratio */
 }
+
+
+
 
 .text-container {
     width: 45%;
