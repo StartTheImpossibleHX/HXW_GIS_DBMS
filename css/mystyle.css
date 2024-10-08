@@ -93,7 +93,7 @@ nav a {
 
 
 .map-image {
-    max-width: 100%; /* Ensures the image scales with its container */
+    max-width: 50%; /* Ensures the image scales with its container */
     height: auto;    /* Keeps the aspect ratio */
 }
 
